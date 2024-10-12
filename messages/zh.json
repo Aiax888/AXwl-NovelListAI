@@ -1,29 +1,29 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "星辰AI研究院",
+    "solgan": "创意到实现，AI全程助力。"
   },
   "LandingPage": {
-    "Index": {
-      "title": "AINovelList"
+    "Index": {  
+      "title": "星辰AI研究院-AINovelList"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "AI剧本创作助手",
+      "description": "星辰AI研究院-AINovelList是一款基于ScriptCraft的AI剧本创作助手，通过AI技术探索剧本创作的无限可能。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
+        "title": "AI角色档案生成器",
         "description": "轻松创建详细的角色档案。"
       },
       "storyStructure": {
-        "title": "故事结构",
+        "title": "AI故事结构",
         "description": "使用强大的结构工具组织您的故事。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
+        "title": "AI场景编辑器",
         "description": "精准编辑和完善您的场景。"
       },
       "aiTools": {
@@ -35,18 +35,18 @@
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "AI学习者",
+        "content": "AI角色档案生成器彻底改变了我的学习过程。角色档案生成器简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "AI学习者",
+        "content": "ScriptCraft的AI场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "AI学习者",
+        "content": "AI辅助工具帮助我无数次克服了学习障碍。强烈推荐！"
       }
     },
     "Header": {
@@ -69,18 +69,18 @@
       "email": "support@scriptcraft.com",
       "address1": "123 编剧大道",
       "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "cta": "今天开始您的AI学习之旅",
       "startFreeTrial": "开始免费试用",
-      "copyright": "© 2024 ScriptCraft。保留所有权利。"
+      "copyright": "© 2024 星辰AI研究院。保留所有权利。"
     },
     "ProductShowcase": {
       "title": "场景by场景，精心打造您的故事",
-      "imageAlt": "ScriptCraft界面"
+      "imageAlt": "星辰AI研究院界面"
     }
   },
   "Dashboard": {
     "title": "仪表板",
-    "productName": "ScriptCraft",
+    "productName": "星辰AI研究院-AINovelList",
     "welcome": "欢迎使用AI小说助手",
     "selectFeature": "请从侧边栏选择一个功能以开始。",
     "oneLiner": "一句话故事",
